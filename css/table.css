@@ -1,0 +1,49 @@
+table {
+  border: 1px solid black;
+  text-align: left;
+  line-height: 1.5;
+  font-size: 0.9rem;
+}
+
+tr {
+  border: 1ch solid black;
+  height: 4rem;
+  width: 4rem;
+  padding: 0.5rem;
+}
+
+th {
+  border: 1px solid black;
+  height: 4rem;
+  width: 4rem;
+  padding: 0.5rem;
+}
+
+.activity-content {
+  width: 50rem;
+}
+
+.fasa-1 {
+  background-color: var( --color-danger);
+  color: white;
+}
+
+.fasa-2 {
+  background-color: var(--color-warning);
+  color: black;
+}
+
+.fasa-3 {
+  background-color: var(--color-success);
+  color: white;
+}
+
+.fasa-4 {
+  background-color: var(--color-primary);
+  color: black;
+}
+
+.fasa-5{
+    background-color: white;
+    color: black;
+}
